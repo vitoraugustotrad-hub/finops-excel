@@ -1,0 +1,5 @@
+account_id,account_name,default_team
+111111111111,prod-platform,platform
+222222222222,prod-data,data
+333333333333,prod-web,web
+444444444444,sandbox,platform
